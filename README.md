@@ -18,3 +18,8 @@ Cadastrar Produto
 recuperar produtos da categoria
 
 /categoria/{id-da-categoria} GET - retorna uma lista de produtos
+
+
+Testes automatizados - 
+
+Teste para criar categoria / produtos e testar os retornos.
